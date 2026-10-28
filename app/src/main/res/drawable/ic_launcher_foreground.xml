@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- sun / gateway -->
+    <path
+        android:fillColor="#C7A45B"
+        android:pathData="M54,30m-10,0a10,10 0,1 1,20 0a10,10 0,1 1,-20 0" />
+    <!-- canal waves -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M30,58 Q38,50 46,58 T62,58 T78,58" />
+    <path
+        android:strokeColor="#18A6A6"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M30,72 Q38,64 46,72 T62,72 T78,72" />
+</vector>
